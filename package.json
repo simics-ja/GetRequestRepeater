@@ -1,0 +1,11 @@
+{
+  "name": "getrequestrepeater",
+  "version": "1.0.0",
+  "description": "Solution for CORS error using now(PaaS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomoyuki Shimizu",
+  "license": "ISC"
+}
