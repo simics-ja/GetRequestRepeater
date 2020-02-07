@@ -4,8 +4,9 @@ This function gets the resource of URL written in `now.json` instead of the requ
 
 
 # How to use
-Firstly, write `TARGET_URL` and `ALLOW_ORIGIN` in `now.json` before the deployment.
+Firstly, write `TARGET_URL` and `ALLOW_ORIGIN` in `now.json` before the deployment.\
 Please set headers using`res.setHeader('key', ''value)` in `target.js` if required.
+
 Finally, type this command.
 
 ```
