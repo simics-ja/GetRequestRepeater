@@ -3,10 +3,10 @@ This serverless function is a proxy that avoids CORS Error through the Now platf
 This function gets the resource of URL written in `now.json` instead of the request-host, then makes the same body response including the `Access-Control-Allow-Origin` header.
 
 
-# How it uses?
+# How to use
 Firstly, write `TARGET_URL` and `ALLOW_ORIGIN` in `now.json` before the deployment.
-
-Then, type this command.
+Please set headers using`res.setHeader('key', ''value)` in `target.js` if required.
+Finally, type this command.
 
 ```
 now
