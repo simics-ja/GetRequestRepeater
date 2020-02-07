@@ -23,5 +23,5 @@ Please reffer to Now CLI: [https://zeit.co/docs/v2/introduction]
 
 If you change or add functions, please place node.js source to `/api/` like `/api/target.js`.
 In this directory, Now platform automatically build the source and set functions entry point.
-Please refer this: [https://zeit.co/docs/v2/serverless-functions/introduction]
+Please refer to Now Serverless-functions: [https://zeit.co/docs/v2/serverless-functions/introduction]
 
