@@ -1,0 +1,11 @@
+Output
+{
+  "version": 2,
+  "redirects": [
+    { "source": "/", "destination": "https://zeit.co" }
+  ],
+  "env": {
+    "TARGET_URL": "https://your-target-url.com",
+    "ALLOW_ORIGIN": "https://allow-origin.com"
+  }
+}
