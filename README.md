@@ -16,7 +16,7 @@ Then, run this command.
 now
 ```
 
-After building, you can avoid CORS Error in through deployment URL on Now (like: https://project-name.username.now.sh/api/target/).
+After building, you can avoid CORS Error in through deployment URL on Now (like: `https://project-name.username.now.sh/api/target/`).
 
 
 Please reffer to Now CLI: [https://zeit.co/docs/v2/introduction]
